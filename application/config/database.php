@@ -75,10 +75,11 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => '',
-	'password' => '',
-	'database' => '',
+	'hostname' => 'iqbalcakep.com',
+	'port' => '4561',
+	'username' => 'iqbalcakepbanget',
+	'password' => 'iqbalcakepbanget',
+	'database' => 'hps_kendaraan',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

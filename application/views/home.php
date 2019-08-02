@@ -53,3 +53,4 @@
     <!-- /footer content -->
     
 </section>
+<script src="<?php echo base_url(); ?>assets/plugins/jquery/jquery.min.js"></script>
